@@ -1,0 +1,21 @@
+package sa.sauditourism.employee.managers.environment
+
+object EnvironmentKeys {
+
+    const val API_BASE_URL = "API_BASE_URL"
+    const val BASE_URL_V2 = "BASE_URL_V2"
+    const val SSID_PROFILE_ENDPOINT = "SSID_PROFILE_ENDPOINT"
+    const val SSID_TOKEN_ENDPOINT = "SSID_TOKEN_ENDPOINT"
+    const val SSID_LOGOUT_ENDPOINT = "SSID_LOGOUT_ENDPOINT"
+    const val ENCRYPT_SECRET_KEY = "ENCRYPT_SECRET_KEY"
+    const val ENCRYPT_SECRET_IV = "ENCRYPT_SECRET_IV"
+    const val OPEN_AUTH_CLIENT_ID = "OPEN_AUTH_CLIENT_ID"
+    const val OPEN_AUTH_CLIENT_SECRET = "OPEN_AUTH_CLIENT_SECRET"
+    const val OPEN_AUTH_CALLBACK_URL = "OPEN_AUTH_CALLBACK_URL"
+    const val CHANGE_PASSWORD_URL = "CHANGE_PASSWORD_URL"
+    const val OPEN_AUTH_SCOPE = "OPEN_AUTH_SCOPE"
+    const val OPEN_AUTH_TOKEN_URL = "OPEN_AUTH_TOKEN_URL"
+    const val OPEN_AUTH_URL = "OPEN_AUTH_URL"
+    const val REQUEST_TYPE_SEARCH_URL = "REQUEST_TYPE_SEARCH_URL"
+    const val API_KEY = "API_KEY"
+}

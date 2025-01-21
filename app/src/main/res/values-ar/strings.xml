@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">STARS</string>
+
+    <string name="SEARCH_FOR_REQUESTS">البحث عن الطلبات</string>
+    <string name="SERVICES_CATEGORIES">فئات الخدمات</string>
+    <string name="LOGIN_TITLE">مرحبًا بك</string>
+    <string name="LOGIN_SUBTITLE"></string>
+    <string name="LOGIN_BUTTON_TITLE">تسجيل الدخول</string>
+    <string name="LOGIN_CHANGE_PASSWORD_TITLE">تغيير كلمة المرور</string>
+    <string name="CHANGE_LANGUAGE_TITLE">تغيير اللغة</string>
+    <string name="DONE_BUTTON_TITLE">تم</string>
+
+    <string name="SEARCH_HERE">ابحث هنا</string>
+
+    <string name="ADMIN_AND_FACILITIES">خدمات الإدارة والمرافق</string>
+
+    <string name="NO_RESULT_FOUND">لم يتم العثور على نتائج</string>
+    <string name="NO_RESULT_FOUND_MESSAGE"> عذرًا، لا توجد نتائج تطابق بحثك</string>
+
+    <string name="NOTE">ملاحظة</string>
+    <string name="OPTIONAL">(اختياري)</string>
+
+    <string name="SUBMIT">إرسال</string>
+
+
+    <string name="TRY_AGAIN">حاول مرة أخرى</string>
+    <string name="UNEXPECTED_ERROR_HAS_OCCURRED">حدث خطأ غير متوقع</string>
+    <string name="UPDATE_BUTTON">تحديث</string>
+    <string name="UPDATE_LATER">تحديث لاحقًا</string>
+    <string name="UPDATE_NOW">تحديث الآن</string>
+    <string name="UPDATE_REQUIRED">مطلوب تحديث</string>
+    <string name="UPDATE_REQUIRED_DESCRIPTION">أطلقنا نسخة جديدة ومُحسنة. يُرجى تحديث التطبيق لتجربة أفضل</string>
+    <string name="NO_CONNECTION">لا يوجد اتصال</string>
+    <string name="NO_CONNECTION_MESSAGE">لا يوجد اتصال بالإنترنت. تحقق من الاتصال وحاول مرة أخرى</string>
+    <string name="NO_FAVORITES_HAVE_BEEN_ADDED">لم تُضِف مفضلات بعد.
+ اكتشف المزيد من الرحلات والمغامرات
+ وأضفها إلى قائمة
+ مفضلاتك</string>
+
+    <string name="SEARCH_RESULT_EMPTY_TITLE">عفوًا.
+ لم يُعثر على نتائج</string>
+
+    <string name="MOBILE_UNDER_MAINTENANCE">التطبيق يخضع للصيانة</string>
+    <string name="MOBILE_UNDER_MAINTENANCE_DESCRIPTION">نعمل على توفير تجربة أفضل لك. شكرًا لصبرك</string>
+
+    <string name="SECURITY_POPUP_TITLE"> تحذير أمني </string>
+    <string name="SECURITY_POPUP_DESCRIPTION">  تم الكشف عن أن هذا الجهاز مخترق أو مكسور الحماية. لحماية بياناتك وخصوصيتك، قد يتم تعطيل الميزات. يُرجى النظر في استعادة جهازك إلى إعداداته الأصلية.</string>
+
+    <string name="TOAST_CONNECTION">تمت إعادة الاتصال</string>
+    <string name="TOAST_CONNECTION_MESSAGE">تم إعادة الاتصال بالإنترنت. كل شيء يعمل بشكل مثالي!</string>
+
+    <string name="ACCOUNT_TAB">الحساب</string>
+    <string name="HOME_TAB">يومي</string>
+    <string name="SERVICES_TAB">الخدمات</string>
+    <string name="PEOPLE_TAB">الأشخاص</string>
+    <string name="SEARCH_RESULT_EMPTY_DESCRIPTION">حاول البحث بكلمات رئيسية أخرى لعرض النتائج</string>
+
+    <string name="ACCOUNT_SIGN_OUT"> تسجيل الخروج </string>
+    <string name="ACCOUNT_SIGN_OUT_ALERT_SUBTITLE"> يمكنك دائمًا الوصول إلى حسابك مجددًا عن طريق تسجيل الدخول مرة أخرى</string>
+    <string name="ACCOUNT_SIGN_OUT_ALERT_TITLE"> هل أنت متأكد أنك تريد تسجيل الخروج؟ </string>
+    <string name="ACCOUNT_VERSION">  الإصدار %1$s</string>
+    <string name="ACCOUNT_SETTINGS"> الإعدادات</string>
+    <string name="ACCOUNT_ID"> هوية</string>
+    <string name="ACCOUNT_SHOW_MY_BUSINESS_CARD"> إظهار بطاقة العمل الخاصة بي</string>
+    <string name="ACCOUNT_MY_PERSONAL_PROFILE">ملفي الشخصي</string>
+    <string name="ACCOUNT_MY_LEAVES"> رصيد إجازاتي</string>
+    <string name="ACCOUNT_MY_PAYSLIP"> كشف راتبي</string>
+    <string name="ACCOUNT_MY_REQUESTS"> طلباتي </string>
+    <string name="ACCOUNT_BUSINESS_CARD_SCREEN_TITLE">بطاقة العمل</string>
+    <string name="ACCOUNT_JOB_TITLE"> الوظيفة</string>
+    <string name="ACCOUNT_DEPARTMENT"> القسم</string>
+    <string name="ACCOUNT_PREFERRED_LANGUAGE">اللغة المفضلة</string>
+
+    <string name="SEARCH">إبحث</string>
+    <string name="NONE">لا شيء</string>
+
+    <string name="CAMERA_USER_PERMISSION">اضغط هنا لإرفاق يتطلب هذا التطبيق الوصول إلى الكاميرا الخاصة بك لالتقاط وتحميل الصور لنموذج نوع الطلب. يرجى منح الإذن للمتابعة.</string>
+    <string name="ATTACHEMNT_SELECT_UPLOAD_OPTION">اختر خيارًا للتحميل</string>
+    <string name="ATTACHEMNT_SELECT_PHOTO_LIBRARY">مكتبة الصور</string>
+    <string name="ATTACHEMNT_SELECT_DOCUMENT_LIBRARY">مكتبة المستندات</string>
+    <string name="ATTACHEMNT_SELECT_CAMERA">التقاط صورة</string>
+    <string name="ATTACHEMNT_DESCRIPTION">أرفق الصورة أو المستند هنا</string>
+    <string name="ATTACHMENTS">المستندات</string>
+    <string name="ATTACHEMNT_MAX_SIZE">لحد الأقصى للحجم: 25 ميجابايت</string>
+    <string name="ATTACHMENT_SIZE_VALIDATION_ERROR_DESCRIPTION">حجم المرفق يتجاوز الحد المسموح به وهو 25 ميجابايت. يرجى تقليل حجم الملف أو إزالة بعض المرفقا.</string>
+    <string name="ATTACHMENT_SIZE_VALIDATION_ERROR_TITLE">حجم المرفق يتجاوز الحد المسموح</string>
+    <string name="ACCOUNT_UPDATE_BUTTON">تحديث</string>
+    <string name="BACK">السابق</string>
+    <string name="NEXT">التالي</string>
+    <string name="SKIP">تخطي</string>
+
+    <string name="TIME">الوقت</string>
+
+    <string name="VIEW_ACTIVITIES">استكشاف الأنشطة</string>
+    x
+    <string name="REQUEST_DETAILS">عرض تفاصيل الطلب</string>
+    <string name="DELETE">حذف</string>
+    <string name="EDIT">تعديل</string>
+
+    <string name="COMING_SOON">قريباً</string>
+    <string name="PEOPLE_TAB_COMING_SOON_SUBTITLE">ابحث عن الأشخاص، الأقسام، والمزيد!</string>
+
+    <string name="FORM_SUCCESS_TITLE">تم الإرسال</string>
+    <string name="FORM_SUCCESS_MESSAGE">تم ارسال طلبك بنجاح!</string>
+
+    <string name="REQUEST_ACTIVITY">النشاط</string>
+    <string name="ADD_COMMENT">إضافة تعليق</string>
+
+    <string name="SHARE_BUSINESS_CARD">مشاركة بطاقة العمل</string>
+    <string name="MY_PAY_SLIP">شهادة مرتبي</string>
+    <string name="FILTER">تصفية</string>
+    <string name="SELECT_MONTH">حدد الشهر</string>
+    <string name="SELECT_YEAR">حدد العام</string>
+    <string name="CHOOSE_MONTH">إختر الشهر</string>
+    <string name="CHOOSE_YEAR">إختر العام</string>
+    <string name="SAVE">حفظ</string>
+
+    <string name="CHOOSE_SERVICE_CATEGORY">اختر فئة الخدمة</string>
+
+    <string name="CREATED_BY_ME">تم إنشاؤه بواسطتي</string>
+    <string name="ASSIGNED_TO_ME">مخصص لي</string>
+    <string name="SEND">إرسال</string>
+    <string name="CANCEL">إلغاء</string>
+    <string name="DELETE_MESSAGE">هل أنت متأكد أنك تريد الحذف؟</string>
+
+    <string name="PARTICIPANTS_HEADER_TITLE">المشاركون</string>
+    <string name="ADD_PARTICIPANTS_BUTTON_TITLE">إضافة مشارك</string>
+    <string name="OK">تم</string>
+
+    <string name="ADD_NEW_PARTICIPANT">إضافة مشارك جديد</string>
+    <string name="PARTICIPANTS">المشتركون</string>
+    <string name="ACCOUNT_SHARE">مشاركة بطاقة العمل</string>
+    <string name="ACCOUNT_EMPLOYEE_DETAILS">تفاصيل الموظف :</string>
+    <string name="ACCOUNT_EMPLOYEE_NAME">الاسم:</string>
+    <string name="ACCOUNT_EMPLOYEE_EMAIL">الاميل:</string>
+    <string name="ACCOUNT_EMPLOYEE_PHONE">رقم الموبيل:</string>
+    <string name="ACCOUNT_EMPLOYEE_JOB_TITLE">الوظيفه:</string>
+
+    <string name="SELECT_PROFILE_PIC">حدد صورة ملفك الشخصي:</string>
+    <string name="CHOOSE_IMAGE_LIBRARY">اختر صورة ملفك الشخصي</string>
+    <string name="ADD_IMAGE">أضف صورة</string>
+    <string name="YOUR_PICTURE_IS_NOW_DELETED">تم حذف صورتك الآن</string>
+    <string name="YOUR_PICTURE_CHANGED_SUCCESSFULLY">تم تغيير صورتك بنجاح</string>
+    <string name="HAPPENING_TODAY_TITLE">أهم أحداث اليوم</string>
+    <string name="HAPPENING_TODAY_SUBTITLE">ابقَ على اطلاع بإعلانات اليوم</string>
+    <string name="NO_ANNOUNCEMENTS_FOUND">لا توجد إعلانات متاحة</string>
+
+    <string name="SELECT_YOUR_PROFILE_PICTURE">اختر الطريقة التي تريد بها تحديث صورة ملفك الشخصي</string>
+    <string name="CHOOSE_AN_AVATAR">اختر صورة رمزية</string>
+    <string name="CHOOSE_IMAGE_FROM_GALLERY">اختر صورة من المكتبة</string>
+    <string name="TAKE_PHOTO">التقط صورة</string>
+    <string name="REMOVE_CURRENT_PICTURE">إزالة الصورة الحالية</string>
+    <string name="SELECT_YOUR_AVATAR">اختر صورتك الرمزية</string>
+    <string name="SCAN_QR_CODE">امسح رمز الاستجابة السريعة الخاص بي</string>
+    <string name="ACCOUNT_SHARE_MY_BUSINESS_CARD">مشاركة بطاقة العمل الخاصة بي</string>
+    <string name="HI">مرحبًا</string>
+    <string name="MY_DAY_TITLE">هل أنت مستعد ليوم رائع؟</string>
+    <string name="SCANQR">امسح رمز الاستجابة السريعة الخاص بي</string>
+    <string name="QRCODE">رمز الاستجابة السريعة لبطاقة العمل</string>
+
+
+    <!--    // for book a new meeting room-->
+    <string name="BOOK_MEETING_ROOM_TITLE">حجز غرفة الاجتماعات</string>
+    <string name="FROM">من</string>
+    <string name="TO">الي</string>
+    <string name="AVAILABLE_MEETING_ROOM_BUTTON_TITLE">تحقق من غرف الاجتماعات المتاحة</string>
+    <string name="INVALID_MEETING_DURATION">مدة الاجتماع غير صالحة</string>
+    <string name="INVALID_TIME_INTERVAL">الفاصل زمني غير صالح</string>
+    <!--    for check available meeting rooms-->
+    <string name="AVAILABLITY_TITLE">التوفر</string>
+    <string name="AVAILABILITY_SUBTITLE">غرف الاجتماعات</string>
+    <string name="SEARCH_FOR_MEETING_ROOMS">البحث عن غرف الاجتماعات</string>
+    <string name="FLOOR">الطابق</string>
+    <string name="FLOOR_1">الطابق الأول</string>
+    <string name="FLOOR_2">الطابق الثاني</string>
+    <string name="FLOOR_3">الطابق الثالث</string>
+    <string name="TH_FLOOR">الطابق</string>
+    <string name="SORRY">عذرا !</string>
+    <string name="NO_ROOMS_AVAILABLE">لا توجد غرف متاحه</string>
+
+    <!--    // for single room feature-->
+    <string name="ROOM_CAPACITY">السعة</string>
+    <string name="ROOM_FEATURES">المميزات</string>
+    <string name="MEETING_TITLE">عنوان الاجتماع</string>
+    <string name="BOOK_ROOM">حجز</string>
+    <string name="ROOM_DESCRIPTION">الوصف</string>
+    <string name="MEETING_DATE">التاريخ</string>
+    <string name="MEETING_DESCRIPTION">وصف الاجتماع</string>
+    <string name="MEETING_IS_BOOKED">تم حجز </string>
+    <string name="TIME_TAKEN_ERROR_TITLE">عذرًا، هذا الوقت محجوز.</string>
+    <string name="TIME_TAKEN_ERROR_DESCRIPTION">محجوز</string>
+   <!--   for successfully booked screen-->
+   <string name="BACK_TO_MY_DAY">العودة إلى الرئيسيه</string>
+   <string name="SUCCESSFULLY_BOOKED_ROOM">لقد قمت بحجز غرفه الاجتماع بنجاح</string>
+    <string name="IN">في</string>
+    <string name="TIME_HAS_ALREADY_PASSED">قد مر الوقت بالفعل</string>
+
+
+</resources>

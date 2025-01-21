@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="map_hide_color">#CCEEEEEE</color>
+
+
+    <!-- MAP Colors-->
+    <color name="solid_black">#000000</color>
+    <color name="solid_white">#FFFFFF</color>
+    <color name="solid_grey">#303030</color>
+    <color name="solid_grey1">#303030</color>
+    <color name="solid_grey2">#4C4D4C</color>
+    <color name="solid_grey3">#515151</color>
+    <color name="solid_grey4">#767676</color>
+    <color name="solid_grey5">#999999</color>
+    <color name="solid_grey6">#CCCCCC</color>
+    <color name="solid_grey7">#E6E6E6</color>
+    <color name="solid_grey8">#F7F7F7</color>
+    <color name="solid_grey9">#FBFAFA</color>
+    <color name="solid_grey10">#515151</color>
+    <color name="solid_page_background">#F8F8F8</color>
+    <color name="colorPrimary">#78006E</color>
+    <color name="colorSecondary">#BE008D</color>
+    <color name="green_light">#51C041</color>
+    <color name="white_opacity80">#CBFFFFFF</color>
+    <color name="state_error">#E50E0E</color>
+    <color name="fuchsia_marker">#BE098F</color>
+    <color name="light_teal_marker">#64A0DC</color>
+    <color name="orange_marker">#FB8509</color>
+    <color name="gas_station_marker">#00884F</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="brand_red_darker">#940D2B</color>
+    <color name="brand_red_base">#B91036</color>
+    <color name="card_shadow_color">#3333330F</color>
+    <color name="black_alpha5">#80000000</color>
+    <color name="white_opacity50">#80FFFFFF</color>
+    <color name="rate_yellow">#F8DB5E</color>
+    <color name="card_shadow_transparent">#32333333</color>
+    <color name="light_orange_opacity">#1AFF8300</color>
+    <color name="light_orange">#FF8300</color>
+    <color name="state_success">#286D2F</color>
+    <color name="payment_sdk_secondary_color">#78006E</color>
+    <color name="payment_sdk_button_background_color">#78006E</color>
+    <color name="payment_sdk_status_bar_color">#78006E</color>
+    <color name="payment_sdk_title_text_color">#78006E</color>
+    <color name="payment_sdk_secondary_font_color">#78006E</color>
+</resources>

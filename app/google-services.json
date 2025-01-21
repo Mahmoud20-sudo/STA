@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "695618655770",
+    "firebase_url": "https://employee-33a86-default-rtdb.firebaseio.com",
+    "project_id": "employee-33a86",
+    "storage_bucket": "employee-33a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695618655770:android:dafa287c3f43bdc1ed63a3",
+        "android_client_info": {
+          "package_name": "sa.sauditourism.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgqNiPyYJx0fEx4XYFWB1ZF3A0aoUYC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695618655770:android:d7132e3949e7be46ed63a3",
+        "android_client_info": {
+          "package_name": "sa.sauditourism.employee.alpha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgqNiPyYJx0fEx4XYFWB1ZF3A0aoUYC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

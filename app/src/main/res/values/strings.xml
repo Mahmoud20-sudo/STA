@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">STARS</string>
+
+    <string name="LOGIN_TITLE">Welcome</string>
+    <string name="LOGIN_SUBTITLE"></string>
+    <string name="LOGIN_BUTTON_TITLE">Sign In</string>
+    <string name="LOGIN_CHANGE_PASSWORD_TITLE">Change Password</string>
+    <string name="CHANGE_LANGUAGE_TITLE">Change Language</string>
+    <string name="DONE_BUTTON_TITLE">Done</string>
+
+    <string name="SEARCH_FOR_REQUESTS">Search for Requests</string>
+    <string name="SERVICES_CATEGORIES">Services Categories</string>
+    <string name="ADMIN_AND_FACILITIES">Administration &amp; Facilities Services</string>
+
+    <string name="SEARCH_HERE">Search here</string>
+
+    <string name="NO_RESULT_FOUND">No Results Found</string>
+    <string name="NO_RESULT_FOUND_MESSAGE">Sorry, no results match your search.</string>
+
+    <string name="NOTE">Note</string>
+    <string name="OPTIONAL">(Optional)</string>
+
+    <string name="SUBMIT">Submit</string>
+    <string name="TRY_AGAIN">Try again</string>
+    <string name="UNEXPECTED_ERROR_HAS_OCCURRED">An unexpected error has occurred</string>
+    <string name="UPDATE_BUTTON">Update</string>
+    <string name="UPDATE_LATER">Update later</string>
+    <string name="UPDATE_NOW">Update Now</string>
+    <string name="UPDATE_REQUIRED">Update required</string>
+    <string name="UPDATE_REQUIRED_DESCRIPTION">we have launched a new and improved version. please update the app for a better experience</string>
+
+    <string name="NO_CONNECTION">No Connection</string>
+    <string name="NO_CONNECTION_MESSAGE">No internet connection found. Check your connection and try again.</string>
+    <string name="NO_FAVORITES_HAVE_BEEN_ADDED">No favorites have been added yet.
+ Discover more trips and adventures
+ and include them in your list of
+ favorites.</string>
+
+    <string name="SEARCH_RESULT_EMPTY_TITLE">Oops! No results found</string>
+
+    <string name="MOBILE_UNDER_MAINTENANCE">The Application under maintenance</string>
+    <string name="MOBILE_UNDER_MAINTENANCE_DESCRIPTION">we\'re working to making a better experience for you. Thank you for your patience.</string>
+    SECURITY_POPUP_TITLE
+    <string name="SECURITY_POPUP_TITLE"> Security Warning </string>
+    <string name="SECURITY_POPUP_DESCRIPTION">This app may not function properly as your device is jailbroken or rooted. Please restore to a secure state.</string>
+
+    <string name="TOAST_CONNECTION">Your connection has been reestablished.</string>
+    <string name="TOAST_CONNECTION_MESSAGE">Internet connection established. Everything is working perfectly!</string>
+
+    <string name="ACCOUNT_TAB">Account</string>
+    <string name="HOME_TAB">My Day</string>
+    <string name="SERVICES_TAB">Services</string>
+    <string name="PEOPLE_TAB">People</string>
+
+    <string name="NONE">None</string>
+    <string name="SEARCH_RESULT_EMPTY_DESCRIPTION">Try searching with other keywords to show results</string>
+    <string name="SEARCH">Search</string>
+
+
+    <string name="ACCOUNT_SIGN_OUT"> Sign out </string>
+    <string name="ACCOUNT_SIGN_OUT_ALERT_SUBTITLE"> You can always access your account back by signing back in </string>
+    <string name="ACCOUNT_SIGN_OUT_ALERT_TITLE"> Are you sure you want to sign out? </string>
+    <string name="ACCOUNT_VERSION"> Version %1$s</string>
+    <string name="ACCOUNT_SETTINGS"> Settings</string>
+    <string name="ACCOUNT_ID"> ID</string>
+    <string name="ACCOUNT_SHOW_MY_BUSINESS_CARD">Business Card QR Code</string>
+    <string name="ACCOUNT_MY_PERSONAL_PROFILE">My Personal Profile</string>
+    <string name="ACCOUNT_MY_LEAVES"> My Leaves Balance</string>
+    <string name="ACCOUNT_MY_PAYSLIP"> My Payslip</string>
+    <string name="ACCOUNT_MY_REQUESTS"> My REQUESTS </string>
+    <string name="ACCOUNT_BUSINESS_CARD_SCREEN_TITLE">Business Card</string>
+    <string name="ACCOUNT_JOB_TITLE"> Job Title</string>
+    <string name="ACCOUNT_DEPARTMENT"> Department</string>
+    <string name="ACCOUNT_PREFERRED_LANGUAGE">Preferred language</string>
+
+
+    <string name="CAMERA_USER_PERMISSION">This app requires access to your camera to allow you to capture and upload photos for the request types\'s form. Please grant permission to continue.</string>
+    <string name="ATTACHEMNT_SELECT_UPLOAD_OPTION">Select an option to upload</string>
+    <string name="ATTACHEMNT_SELECT_PHOTO_LIBRARY">Photo Library</string>
+    <string name="ATTACHEMNT_SELECT_DOCUMENT_LIBRARY">Document Library</string>
+    <string name="ATTACHEMNT_SELECT_CAMERA">Take Photo</string>
+    <string name="ATTACHEMNT_DESCRIPTION">Attach image or document here</string>
+    <string name="ATTACHMENTS">Attachments</string>
+    <string name="ATTACHEMNT_MAX_SIZE">Max size: 25MB</string>
+    <string name="ATTACHMENT_SIZE_VALIDATION_ERROR_TITLE">Attachment Size Exceeded</string>
+    <string name="ATTACHMENT_SIZE_VALIDATION_ERROR_DESCRIPTION">The attachment size exceeds the allowed limit of 25MB. Please reduce the file size or remove some attachments.</string>
+    <string name="ACCOUNT_UPDATE_BUTTON">Update</string>
+    <string name="BACK">Back</string>
+    <string name="NEXT">Next</string>
+    <string name="SKIP">Skip</string>
+
+    <string name="TIME">Time</string>
+
+    <string name="VIEW_ACTIVITIES">Explore Activities</string>
+    <string name="REQUEST_DETAILS">View Request Details</string>
+    <string name="DELETE">Delete</string>
+    <string name="EDIT">Edit</string>
+
+    <string name="COMING_SOON">Coming Soon</string>
+    <string name="PEOPLE_TAB_COMING_SOON_SUBTITLE">Search for People, Departments, and more!</string>
+
+    <string name="FORM_SUCCESS_TITLE">Success</string>
+    <string name="FORM_SUCCESS_MESSAGE">Your request has been successfully submitted!</string>
+
+    <string name="REQUEST_ACTIVITY">Activity</string>
+    <string name="ADD_COMMENT">Add Comment</string>
+
+    <string name="SHARE_BUSINESS_CARD">Share Business Card</string>
+    <string name="MY_PAY_SLIP">My Pay Slip</string>
+
+    <string name="FILTER">Filter</string>
+    <string name="SELECT_MONTH">Select a Month</string>
+    <string name="SELECT_YEAR">Select a Year</string>
+    <string name="CHOOSE_MONTH">Choose Month</string>
+    <string name="CHOOSE_YEAR">Choose Year</string>
+
+    <string name="SAVE">Save</string>
+    <string name="CHOOSE_SERVICE_CATEGORY">Choose Service category</string>
+
+    <string name="CREATED_BY_ME">Created By Me</string>
+    <string name="ASSIGNED_TO_ME">Assigned To Me</string>
+    <string name="SEND">Send</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="DELETE_MESSAGE">Are you sure you want to delete?</string>
+    <string name="PARTICIPANTS_HEADER_TITLE">Participants</string>
+    <string name="ADD_PARTICIPANTS_BUTTON_TITLE">Add Participant</string>
+    <string name="OK">OK</string>
+
+    <string name="ADD_NEW_PARTICIPANT">Add New Participant</string>
+    <string name="PARTICIPANTS">Participants</string>
+
+    <string name="ACCOUNT_SHARE">Share Business Card </string>
+    <string name="ACCOUNT_EMPLOYEE_DETAILS">Employee Details:</string>
+        <string name="ACCOUNT_EMPLOYEE_NAME">Name:</string>
+    <string name="ACCOUNT_EMPLOYEE_EMAIL">Email:</string>
+    <string name="ACCOUNT_EMPLOYEE_PHONE">Phone:</string>
+    <string name="ACCOUNT_EMPLOYEE_JOB_TITLE">Job Title:</string>
+
+    <string name="SELECT_PROFILE_PIC">Select your profile picture:</string>
+    <string name="CHOOSE_IMAGE_LIBRARY">Choose image from library</string>
+    <string name="ADD_IMAGE">Add Image</string>
+    <string name="YOUR_PICTURE_CHANGED_SUCCESSFULLY">Your picture changed successfully</string>
+    <string name="YOUR_PICTURE_IS_NOW_DELETED">Your picture is now deleted</string>
+    <string name="HAPPENING_TODAY_TITLE">Today\'s Highlights</string>
+    <string name="HAPPENING_TODAY_SUBTITLE">Stay Updated with Today\'s Announcements</string>
+    <string name="NO_ANNOUNCEMENTS_FOUND">No Announcements Available</string>
+
+
+    <string name="SELECT_YOUR_PROFILE_PICTURE">Choose how you want to update your profile picture</string>
+    <string name="CHOOSE_AN_AVATAR">Choose an avatar</string>
+    <string name="CHOOSE_IMAGE_FROM_GALLERY">Choose a photo from the library</string>
+    <string name="TAKE_PHOTO">Take a photo</string>
+    <string name="REMOVE_CURRENT_PICTURE">Remove the current photo</string>
+    <string name="SELECT_YOUR_AVATAR">Select your avatar</string>
+    <string name="SCAN_QR_CODE">Scan my QR code</string>
+    <string name="ACCOUNT_SHARE_MY_BUSINESS_CARD">Share my business card</string>
+    <string name="HI">Hello</string>
+    <string name="MY_DAY_TITLE">Are you ready for an amazing day?</string>
+    <string name="SCANQR">Scan my QR code</string>
+    <string name="QRCODE">Business card QR code</string>
+
+<!--    // for book a new meeting room-->
+    <string name="BOOK_MEETING_ROOM_TITLE">Book Meeting Room</string>
+    <string name="FROM">From</string>
+    <string name="TO">To</string>
+    <string name="AVAILABLE_MEETING_ROOM_BUTTON_TITLE">Check Available Meeting Rooms</string>
+
+<!--    for check available meeting rooms-->
+    <string name="AVAILABLITY_TITLE">Availability</string>
+    <string name="AVAILABILITY_SUBTITLE">Meeting rooms</string>
+    <string name="SEARCH_FOR_MEETING_ROOMS">Search for meeting rooms</string>
+    <string name="FLOOR">Floor</string>
+    <string name="FLOOR_1">st Floor</string>
+    <string name="FLOOR_2">nd Floor</string>
+    <string name="FLOOR_3">rd Floor</string>
+    <string name="TH_FLOOR">th Floor</string>
+    <string name="SORRY">Sorry !</string>
+    <string name="NO_ROOMS_AVAILABLE">No rooms available</string>
+    <string name="INVALID_MEETING_DURATION">Invalid Meeting Duration</string>
+    <string name="INVALID_TIME_INTERVAL">Invalid Time Interval</string>
+
+<!--    // for single room feature-->
+    <string name="ROOM_CAPACITY">Capacity</string>
+    <string name="ROOM_FEATURES">Features</string>
+    <string name="MEETING_TITLE">Meeting Title</string>
+    <string name="BOOK_ROOM">Book</string>
+    <string name="ROOM_DESCRIPTION">Description</string>
+    <string name="MEETING_DATE">Date</string>
+    <string name="MEETING_DESCRIPTION">Description</string>
+    <string name="MEETING_IS_BOOKED">is Booked</string>
+    <string name="TIME_TAKEN_ERROR_TITLE">Sorry, that time\'s taken.</string>
+    <string name="TIME_TAKEN_ERROR_DESCRIPTION">is Booked</string>
+
+<!--   for successfully booked screen-->
+   <string name="BACK_TO_MY_DAY">Back to My Day</string>
+   <string name="SUCCESSFULLY_BOOKED_ROOM">Your have successfully Booked the meeting room </string>
+   <string name="IN">in</string>
+   <string name="TIME_HAS_ALREADY_PASSED">Time has already passed</string>
+
+
+
+</resources>

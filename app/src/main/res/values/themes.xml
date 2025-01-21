@@ -1,0 +1,52 @@
+<resources>
+<!-- Base application theme. -->
+<style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <!-- Primary brand color. -->
+    <item name="colorPrimary">@color/purple_500</item>
+    <item name="colorPrimaryVariant">@color/purple_700</item>
+    <item name="colorOnPrimary">@color/white</item>
+    <!-- Secondary brand color. -->
+    <item name="colorSecondary">@color/teal_200</item>
+    <item name="colorSecondaryVariant">@color/teal_700</item>
+    <item name="colorOnSecondary">@color/black</item>
+    <!-- Status bar color. -->
+    <item name="android:statusBarColor">@color/white</item>
+    <!-- Customize your theme here. -->
+    <item name="android:windowBackground">@color/white</item>
+</style>
+
+// TODO: Change this based on the new design system
+
+<style name="AlertDialogTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowEnterAnimation">@anim/dialog_slide_up</item>
+    <item name="android:windowExitAnimation">@anim/dialog_slide_down</item>
+</style>
+
+<style name="TranslucentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowIsTranslucent">false</item>
+</style>
+
+<style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:navigationBarColor">@android:color/transparent</item>
+</style>
+
+<style name="MapTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="android:navigationBarColor">@android:color/transparent</item>
+    <item name="android:statusBarColor">@android:color/transparent</item>
+    <item name="android:windowLightStatusBar">true</item>
+</style>
+
+<style name="RatingBarStyle" parent="Theme.AppCompat">
+    <item name="colorControlNormal">@color/solid_grey7</item>
+    <item name="colorControlActivated">@color/rate_yellow</item>
+    <item name="colorControlHighlight">@color/solid_grey7</item>
+</style>
+
+
+</resources>
+
