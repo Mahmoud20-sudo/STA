@@ -1,4 +1,4 @@
-# weMeal
+# STA Employee App
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
@@ -28,7 +28,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">weMeal ReadMe</h3>
+  <h3 align="center">STA Employee App ReadMe</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
